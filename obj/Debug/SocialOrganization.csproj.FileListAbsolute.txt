@@ -1,0 +1,13 @@
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\bin\Debug\SocialOrganization.exe.config
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\bin\Debug\SocialOrganization.exe
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\bin\Debug\SocialOrganization.pdb
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.Form1.resources
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.Forms.formsdashboard.resources
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.Properties.Resources.resources
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.UserControls.DashboardUC.resources
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.csproj.GenerateResource.cache
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.csproj.CoreCompileInputs.cache
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.exe
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.pdb
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.UserControls.DonersUC.resources
+C:\Users\Gosia\source\repos\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.csprojAssemblyReference.cache
